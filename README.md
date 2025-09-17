@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/0xGENTLEMAN/0xGENTLEMAN/blob/main/assets/banner.png?raw=true)
+![MasterHead](https://raw.githubusercontent.com/0xGENTLEMAN/0xGENTLEMAN/refs/heads/main/file.png)
 
 <h1 align="center">Hi 👋, I'm Berat Ünal</h1>
 <h3 align="center">I am passionate about cyber security and particularly binary exploitation. My aim is not only to develop myself but also to teach these subjects to others.</h3>
