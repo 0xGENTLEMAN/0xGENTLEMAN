@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Fminimalist-book-wallpapers&psig=AOvVaw1yxB5XFs3xO2nXVgG1QL2d&ust=1758155232392000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCHxuPE3o8DFQAAAAAdAAAAABAE)
+![MasterHead](https://wallpapercave.com/wp/wp14420073.jpg)
 
 <h1 align="center">Hi 👋, I'm Berat Ünal</h1>
 <h3 align="center">I am passionate about cyber security and particularly binary exploitation. My aim is not only to develop myself but also to teach these subjects to others.</h3>
